@@ -1,5 +1,5 @@
 === Caixa d'Eines ===
-Contributors: Nuvol.cat
+Contributors: nuvolpuntcat
 Tags: shortcode, utilitats, wordpress, caixa, eines
 Requires at least: 5.0
 Tested up to: 5.8
