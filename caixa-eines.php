@@ -1,7 +1,6 @@
 <?php
 /**
  * Plugin Name: Caixa d'Eines
- * Plugin URI: http://nuvol.cat
  * Description: Un conjunt d'eines útils per a WordPress
  * Version: 1.0
  * Author: Nuvol.cat
